@@ -1,7 +1,5 @@
----
-title: "Code Book for R_analysis.R Couse Project"
-output: html_document
----  
+Code Book for R_analysis.R Couse Project
+-----------------------
   
   
   
