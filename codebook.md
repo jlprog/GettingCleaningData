@@ -1,22 +1,22 @@
 
 
 Code Book for R_analysis.R 
------------------------
+==========================
 
 
-subject
-* sujbect ID 
-* 1-30
+SUBJECT 2
+* sujbect ID  
+* 1-30  
   
 
-Activity 
+ACTIVITY 18
 * Activities Subject Tested
-* Factor 
-*  WALKING
-* WALKING_UPSTAIRS
-*  WALKING_DOWNSTAIRS
-* SITTING
-* STANDING
+* Factor 6 levels:
+  1. WALKING
+  2. WALKING_UPSTAIRS
+  3. WALKING_DOWNSTAIRS
+  4. SITTING
+  5. STANDING
 
 
 timeBodyAcc_mean
