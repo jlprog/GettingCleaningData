@@ -17,7 +17,7 @@ Activity
 *  WALKING_DOWNSTAIRS
 * SITTING
 * STANDING
-** LAYING
+
 
 timeBodyAcc_mean
 * Mean value of Body Acc
