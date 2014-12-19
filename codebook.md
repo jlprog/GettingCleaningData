@@ -1,19 +1,23 @@
+
+
 Code Book for R_analysis.R Couse Project
 -----------------------
-  
-  
-  
-  
----
 
-##Subject ID
-* Factor
-* 30 levels
-  + 30 subjects
+
+##subject
+* sujbect ID 
+* 1-30
+  
 
 ##Activity 
-* Factor
-* Sitting
+* Activities Subject Tested
+* Factor 
+*  WALKING
+* WALKING_UPSTAIRS
+*  WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+** LAYING
 
 ##Features
 * Mean mean value
