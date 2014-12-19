@@ -19,6 +19,10 @@ Code Book for R_analysis.R Couse Project
 * STANDING
 ** LAYING
 
-##Features
-* Mean mean value
-* Std standard deviation
+##timeBodyAcc_mean
+* Mean value of Body Acc
+* numeric 0.0 -1.0
+
+## tBodyAcc_std
+* Standard Deviation of Body Accenlaration
+* numeric 0.0 -1.0
