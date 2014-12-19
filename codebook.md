@@ -4,12 +4,12 @@ Code Book for R_analysis.R Couse Project
 -----------------------
 
 
-##subject
+subject
 * sujbect ID 
 * 1-30
   
 
-##Activity 
+Activity 
 * Activities Subject Tested
 * Factor 
 *  WALKING
@@ -19,10 +19,10 @@ Code Book for R_analysis.R Couse Project
 * STANDING
 ** LAYING
 
-##timeBodyAcc_mean
+timeBodyAcc_mean
 * Mean value of Body Acc
 * numeric 0.0 -1.0
 
-## tBodyAcc_std
+tBodyAcc_std
 * Standard Deviation of Body Accenlaration
 * numeric 0.0 -1.0
