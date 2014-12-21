@@ -20,7 +20,7 @@ activity
   5 STANDING
 
 
-variables 
+measurement
 * mean and standard deviation estimated from the 3-axial time signals and jerk singals of body accelration, gravity acceration and angular velocity, these signals measured in Euclidian form and the Fast Fourier Transform of these signals. 66 variables 
 
   timeBodyAcc-mean-X   Mean value of  X-axial body acceleration time domain signals
@@ -156,5 +156,5 @@ variables
   freqBodyGyroJerkMag-std Standard deviation of FFT of angular velocity Jerk signals calculated in Euclidean norm
 
 average
-* Average values for each variable measured on each activity and each subject
+* Average values for each measurement on each activity and each subject
 * -1.0 - 1.0
