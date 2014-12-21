@@ -1,4 +1,4 @@
-#download file and unzip
+#If dataset doesn't exist, download dataset and unzip
 if( !file.exists("./UCI HAR Dataset")) 
 { 
         print("downloading HAR dataset...")
@@ -8,6 +8,7 @@ if( !file.exists("./UCI HAR Dataset"))
         unzip(f)       
 }
 
+#load packages 
 library(data.table)
 library(dplyr)
 library(tidyr)
