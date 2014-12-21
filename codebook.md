@@ -9,6 +9,7 @@ subject
 
 activity
 * Activities subjects performed wearing a smartphone 
+*
   1 .WALKING
   2 .WALKING_UPSTAIRS
   3 .WALKING_DOWNSTAIRS
@@ -18,10 +19,10 @@ activity
 
 variables 
 *Variables estimated from body 
-  timeBodyAcc-mean-X  Mean value of  X-axial body acceleration time domain signals
-  timeBodyAcc-mean-Y  Mean value of Y-axial body acceleration time domain signals
-  timeBodyAcc-mean-Z  Mean value of Z-axial body acceleration time domain signals
-  timeBodyAcc-std-X   Standard deviation of X-axial body acceleration time domain signals 
+..*timeBodyAcc-mean-X  Mean value of  X-axial body acceleration time domain signals
+..*timeBodyAcc-mean-Y  Mean value of Y-axial body acceleration time domain signals
+..*timeBodyAcc-mean-Z  Mean value of Z-axial body acceleration time domain signals
+..*timeBodyAcc-std-X   Standard deviation of X-axial body acceleration time domain signals 
   timeBodyAcc-std-Y   Standard deviation of Y-axial body acceleration time domain signals  
   timeBodyAcc-std-Z   Standard deviation of Y-axial body acceleration time domain signals
   timeGravityAcc-mean-X Mean of X-axial gravity acceleration time domain signals
@@ -33,7 +34,9 @@ variables
   timeBodyAccJerk-mean-X Mean of X-axial Jerk signals of body linear accelerations
   timeBodyAccJerk-mean-Y Mean of Y-axial Jerk signals of body linear accelerations
   timeBodyAccJerk-mean-Z Mean of Z-axial Jerk signals of body linear accelerations
+  
   timeBodyAccJerk-std-X Standard deviation of X-axial Jerk signals of body linear accelerations
+  
   timeBodyAccJerk-std-Y Standard deviation of Y-axial Jerk signals of body linear accelerations
 timeBodyAccJerk-std-Z Standard deviation of Z-axial Jerk signals of body linear accelerations
 
