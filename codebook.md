@@ -156,5 +156,5 @@ measurement
   freqBodyGyroJerkMag-std Standard deviation of FFT of angular velocity Jerk signals calculated in Euclidean norm
 
 average
-* Average values for each variable measured on each activity and each subject
+* Average values for each measurement on each activity and each subject
 * -1.0 - 1.0
