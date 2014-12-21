@@ -6,9 +6,9 @@ This repositary is created for the course porject of Getting and Cleanning Data 
 - codebook.md
 - HAR_summary.txt
 
-This project aims to prepare tidy data that can be used for later analysis.
+This project aims to prepare a tidy data that can be used for later analysis.
 
-Dataset 
+## Dataset 
 
 The data set is collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
@@ -18,7 +18,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-[run_analysis.R](https://github.com/jlprog/GettingCleaningData/blob/master/run_analysis.R)
+## [run_analysis.R](https://github.com/jlprog/GettingCleaningData/blob/master/run_analysis.R)
 
 The R script does the following:
 1. Merges the training and the test sets to create one data set.
@@ -31,6 +31,6 @@ The output is [HAR_tidydata.txt] displaying a tidy data set.
 
 The run_analysis.R script is well-documented and there are in-line comments which explain each step taken to transform the data.
 
-[codebook.md](https://github.com/jlprog/GettingCleaningData/blob/master/codebook.md)
+## [codebook.md](https://github.com/jlprog/GettingCleaningData/blob/master/codebook.md)
 
 The codebook describes each variable and its values in HAR_tidydata.txt.  
