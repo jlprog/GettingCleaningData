@@ -4,26 +4,30 @@ Code Book
 
 subject 
 * The subject who performed the activity for each window sample
-* 1-30  
+* 1-30  sujbects 1-30
   
 activity
 * Activities subjects performed wearing a smartphone 
 
   1  WALKING
+  
   2  WALKING_UPSTAIRS
+  
   3  WALKING_DOWNSTAIRS
+  
   4  SITTING
+  
   5 STANDING
 
 
 variables 
 * Variables estimated from body 
 
-..* timeBodyAcc-mean-X  Mean value of  X-axial body acceleration time domain signals
+  timeBodyAcc-mean-X  Mean value of  X-axial body acceleration time domain signals
+  
+  timeBodyAcc-mean-Y  Mean value of Y-axial body acceleration time domain signals
 
-..* timeBodyAcc-mean-Y  Mean value of Y-axial body acceleration time domain signals
-
-..* timeBodyAcc-mean-Z  Mean value of Z-axial body acceleration time domain signals
+  timeBodyAcc-mean-Z  Mean value of Z-axial body acceleration time domain signals
 
 ..* timeBodyAcc-std-X   Standard deviation of X-axial body acceleration time domain signals 
   timeBodyAcc-std-Y   Standard deviation of Y-axial body acceleration time domain signals  
