@@ -18,10 +18,14 @@ activity
 
 
 variables 
-*Variables estimated from body 
+* Variables estimated from body 
+
 ..*timeBodyAcc-mean-X  Mean value of  X-axial body acceleration time domain signals
+
 ..*timeBodyAcc-mean-Y  Mean value of Y-axial body acceleration time domain signals
+
 ..*timeBodyAcc-mean-Z  Mean value of Z-axial body acceleration time domain signals
+
 ..*timeBodyAcc-std-X   Standard deviation of X-axial body acceleration time domain signals 
   timeBodyAcc-std-Y   Standard deviation of Y-axial body acceleration time domain signals  
   timeBodyAcc-std-Z   Standard deviation of Y-axial body acceleration time domain signals
